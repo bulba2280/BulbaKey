@@ -1,0 +1,14 @@
+E:\bulbaKey\bin\Debug\net11.0\bulbaKey.exe
+E:\bulbaKey\bin\Debug\net11.0\bulbaKey.deps.json
+E:\bulbaKey\bin\Debug\net11.0\bulbaKey.runtimeconfig.json
+E:\bulbaKey\bin\Debug\net11.0\bulbaKey.dll
+E:\bulbaKey\bin\Debug\net11.0\bulbaKey.pdb
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.GeneratedMSBuildEditorConfig.editorconfig
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.AssemblyInfoInputs.cache
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.AssemblyInfo.cs
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.csproj.CoreCompileInputs.cache
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.dll
+E:\bulbaKey\obj\Debug\net11.0\refint\bulbaKey.dll
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.pdb
+E:\bulbaKey\obj\Debug\net11.0\bulbaKey.genruntimeconfig.cache
+E:\bulbaKey\obj\Debug\net11.0\ref\bulbaKey.dll
